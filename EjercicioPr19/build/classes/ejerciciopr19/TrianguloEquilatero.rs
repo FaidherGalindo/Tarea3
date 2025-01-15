@@ -1,0 +1,1 @@
+ejerciciop19.TrianguloEquilatero
