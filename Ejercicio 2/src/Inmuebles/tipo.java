@@ -1,0 +1,6 @@
+package Inmuebles;
+
+
+enum tipo {
+    
+}
