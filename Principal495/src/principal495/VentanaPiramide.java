@@ -6,11 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-/**
-* Esta clase denominada VentanaPirámide define una ventana para
-* ingresar los datos de una pirámide y calcular su volumen y superficie.
-* @version 1.2/2020
-*/
+
 public class VentanaPiramide extends JFrame implements ActionListener {
     
     private Container contenedor;
@@ -20,7 +16,7 @@ public class VentanaPiramide extends JFrame implements ActionListener {
     
     public VentanaPiramide() {
         inicio();
-        setTitle("irámide"); 
+        setTitle("piramide"); 
         setSize(280,240); 
         setLocationRelativeTo(null); 
         setResizable(false); 
